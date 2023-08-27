@@ -1,5 +1,4 @@
 # User specified aliases
-alias a='acpi'
 alias ..='cd ..'
 alias cls='clear'
 alias count='ls -l | wc -l'
